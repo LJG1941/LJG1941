@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @LJG1941
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-> 👋 Hi, I’m @LJG1941 Welcome to my profile.
+-> 👀 I’m interested in learning more about the world of IT.
+-> 🌱 I’m currently learning new cool codes!
+-> 💞️ I’m looking to collaborate on different coding projects 
+-> 📫 How to reach me : call, text, or email
+-> 😄 "A smile brightens a day.."
+-> ⚡ Fun fact: "Every program you enjoy, someone had the codes to make!"
 
 
-<!---
-LJG1941/LJG1941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
